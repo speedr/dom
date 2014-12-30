@@ -1,1 +1,1 @@
-export * from './binding'
+export {bind, Binding} from './binding'
